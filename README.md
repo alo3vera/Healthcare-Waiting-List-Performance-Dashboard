@@ -58,3 +58,5 @@ Urgent intervention is needed for backlog clearance
 5. Combined technical Power BI skills with analytical thinking to tell a clear story through data.
 
 **Screenshots/Demo**
+<img width="1279" height="720" alt="Dashboard Summary" src="https://github.com/user-attachments/assets/4eb98462-8b63-4ce4-a7ac-e1848a097426" />
+
