@@ -18,7 +18,7 @@ This was my first Power BI project uploaded to GitHub. The dashboard demonstrate
 
 The dataset contains patient-level and hospital-level information related to appointment scheduling and treatment wait time monitoring. Key fields include: Age Group (0–15, 16–64, 65+), Case Type (Outpatient, Day Case, Inpatient), Speciality Name, Time Bands (0–3 months up to 18+ months), and WL Count for each category.
 It also includes a Date/Archive Month field that supports multi-year trend analysis (2018–2021) and Average/Median WL values for specialty-level comparisons.
-This dataset enables analysis of wait list growth, specialty performance, demographic patterns, and case-type distribution.
+
 
 **Data Preparation & Modelling**
 Steps Performed
