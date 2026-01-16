@@ -1,17 +1,17 @@
 # Healthcare-Waiting-List-Performance-Dashboard
-**Project Overview**
+## Project Overview
 
 This project presents an end-to-end Power BI dashboard built using a Patient Wait List dataset.
 The main goal of the dashboard is to help healthcare administrators, hospital management teams, and analysts gain a clear understanding of patient wait times, treatment pathways, backlogs, and overall operational bottlenecks within healthcare services.
 
 This was my first Power BI project uploaded to GitHub. The dashboard demonstrates my ability to transform raw healthcare data into actionable insights through intuitive visuals and a clean report design.
 ***
-**Aim**
+## Aim
 
 The primary goal of this project is to provide a clear view of patient wait times and service demand, helping stakeholders identify bottlenecks, prioritize resources, and improve operational efficiency.
 
 ***
-**Dataset Description**
+## Dataset Description
 
 Patient Wait List Dataset (2018–2021)
 
@@ -26,7 +26,7 @@ The dataset includes:
 
 The data supports both high-level trend analysis and detailed specialty-level comparisons.
 ***
-**Tools Used**
+## Tools Used
 
 * Microsoft Power BI
 * Power Query
@@ -34,7 +34,7 @@ The data supports both high-level trend analysis and detailed specialty-level co
 * CSV / Excel Data Sources
 ***
 
-**Data Preparation & Modelling**
+## Data Preparation & Modelling
 
 * Combined multi-year inpatient and outpatient datasets into a single data model
 * Cleaned and standardized date fields, categories, and missing values
@@ -43,10 +43,10 @@ The data supports both high-level trend analysis and detailed specialty-level co
 * Performed data type corrections for accurate analysis
 
 ***
-**Dashboard**
+## Dashboard
 <img width="1279" height="720" alt="Dashboard Summary" src="https://github.com/user-attachments/assets/4eb98462-8b63-4ce4-a7ac-e1848a097426" />
 ***
-**Key Insights**
+## Key Insights
 * Outpatients account for over 70% of total waiting list volume
 * Outpatient wait lists steadily increased over the years, indicating rising demand
 * Inpatient and Day Case volumes remained relatively stable
@@ -55,7 +55,7 @@ The data supports both high-level trend analysis and detailed specialty-level co
 * Children (0–15) contribute significantly to long waiting periods
 
 ***
-**Key KPIs & Analysis**
+## Key KPIs & Analysis
 
 * Total Waiting List Count
 * Inpatient vs Outpatient Comparison
@@ -64,13 +64,13 @@ The data supports both high-level trend analysis and detailed specialty-level co
 * Age Group Analysis
 * Year-on-Year Trends
 ***
-**Project Learnings**
+## Project Learnings
 * Creation of interactive and informative dashboards for healthcare data analysis
 * Utilization of complex parameters for drill-down analysis and filter customization
 * Improved data cleaning and modeling skills for real-world datasets
 * Writing effective DAX measures for KPI and trend analysis
 * Built a complete Power BI report, including page layout, slicers, cross-filtering, and interactive visuals designed for operational analysis.
 ***
-**Conclusion**
+## Conclusion
 
 This project harnesses Power Bi's capabilities to empower stakeholders with a dynamic platform for healthcare data analysis. The derived insights show how data visualization can support smarter decisions and improve operational visibility.
