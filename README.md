@@ -46,7 +46,7 @@ The data supports both high-level trend analysis and detailed specialty-level co
 ## Dashboard
 
 <img width="1279" height="720" alt="Dashboard Summary" src="https://github.com/user-attachments/assets/4eb98462-8b63-4ce4-a7ac-e1848a097426" />
-<img width="1279" height="720" alt="Dashboard Summary" src="" />
+<img width="1279" height="720" alt="Detail Summary" src="Detailed view page.png" />
 
 ## Key Insights
 * Outpatients account for over 70% of total waiting list volume
